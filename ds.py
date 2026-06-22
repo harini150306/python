@@ -1,0 +1,2 @@
+def linear(arr,target):
+    
